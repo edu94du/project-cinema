@@ -6,9 +6,7 @@ Projeto criado com base no curso do sujeito programador, Onde pega as informa√ß√
 
 Tecnologias usuadas:
 
-React
-React Router DOM 
-Toastify 
+ React, React Router DOM, Toastify 
 
 Para roda o projeto, Digite o comando a baixo:
 
