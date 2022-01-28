@@ -1,15 +1,15 @@
-# Projeto criado com React App
+# Project made with React App
 
-Projeto criado com base no curso do sujeito programador, Onde pega as informações de JSON o mostra na aplicação react
+Project made with react application by sujeito programador as brazilian course
 
-## Scripts disponiveis 
+## Scripts aviable 
 
-Tecnologias usuadas:
+Technologies:
 
  React, React Router DOM, Toastify 
 
-Para roda o projeto, Digite o comando a baixo:
+How to start the project:
 
 ### `npm start`
 
-Apos abrir irá gerar uma aba no seu navegador rodando na porta 3000
+after this will open on local host:3000 port.
